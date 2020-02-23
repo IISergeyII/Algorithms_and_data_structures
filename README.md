@@ -4,9 +4,9 @@
 
 ### [Лабораторная работа №1](https://github.com/IISergeyII/Algorithms_and_data_structures/blob/master/Lab01/problems1.pdf)
 
-1A. [a + b](https://github.com/IISergeyII/Algorithms_and_data_structures/tree/master/Lab01/1A)
+1A. [a + b](https://github.com/IISergeyII/Algorithms_and_data_structures/tree/master/Lab01/1A) 
 
-1B. [a + b^2](https://github.com/IISergeyII/Algorithms_and_data_structures/tree/master/Lab01/1B)
+1B. [a + b^2](https://github.com/IISergeyII/Algorithms_and_data_structures/tree/master/Lab01/1B) 
 1C. [Черепашка]
 1D. [Простая сортировка]
 1E. [Знакомство с жителями Сортленда]
